@@ -1,8 +1,8 @@
   // --- Authentication Part ---
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyDBn5GMIvsqhTPMVAeylq-I_2R8SSJYzmI",
-    authDomain: "canteenwebsite-7a475.firebaseapp.com	",
+    apiKey: "AIzaSyAMAl6w_062vjRgkmye9e0yN6Jjnj4ACjw",
+    authDomain: "js-login-form.firebaseapp.com",
     projectId: "js-login-form",
     storageBucket: "js-login-form.appspot.com",
     messagingSenderId: "1039987076182",
