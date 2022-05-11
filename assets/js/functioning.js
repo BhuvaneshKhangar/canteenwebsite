@@ -1,6 +1,6 @@
   // --- Authentication Part ---
   // Your web app's Firebase configuration
-  const firebaseConfig = {
+  var firebaseConfig = {
     apiKey: "AIzaSyCdw2q17nPRL6SA3tgkqwuW7JkuJZV3c9A",
     authDomain: "canteenwebsite-7a475.firebaseapp.com",
     projectId: "canteenwebsite-7a475",
@@ -11,8 +11,7 @@
   };
   
   // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
+  
   firebase.initializeApp(firebaseConfig);  
   
   // SignUp Form ID's -
