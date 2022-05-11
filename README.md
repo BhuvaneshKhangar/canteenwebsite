@@ -1,15 +1,15 @@
 ### DYP Canteen Project: 
 
 ## Project Info
-A Canteen website. Allows customers to order online and admin to maintain the records such as profit/loss, ingredients requirements etc. High rich interface makes workflow easy &amp; gets the job done sooner. 
+A Canteen website. Allows customers to order online and admin to maintain the record of order. High rich interface makes workflow easy. 
 
 ## Technologies Used
 Project is created with:
 * HTML5 (Structuring)
 * CSS3 (Styling)
-* Vanilla JavaScript (Functioning)
+* JavaScript (Functioning)
 * Firebase (oAuth & Stuff)
-* Netlify (Hosting)
+* Github (Hosting)
 
 
 
