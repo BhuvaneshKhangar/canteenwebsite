@@ -3,10 +3,10 @@
   var firebaseConfig = {
     apiKey: "AIzaSyAMAl6w_062vjRgkmye9e0yN6Jjnj4ACjw",
     authDomain: "canteenwebsite-7a475.firebaseapp.com	",
-    projectId: "js-login-form",
-    storageBucket: "js-login-form.appspot.com",
-    messagingSenderId: "1039987076182",
-    appId: "1:1039987076182:web:e51f940647b55c0cd7dff7",
+    projectId: "canteenwebsite-7a475e",
+    storageBucket: "canteenwebsite-7a475.appspot.com",
+    messagingSenderId: "1093110920939",
+    appId: "1:1093110920939:web:cdc4a1f3f38cdc8558b0ae",
   };
   
   // Initialize Firebase
