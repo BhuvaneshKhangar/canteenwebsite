@@ -4,7 +4,7 @@
     apiKey: "AIzaSyAMAl6w_062vjRgkmye9e0yN6Jjnj4ACjw",
     authDomain: "canteenwebsite-7a475.firebaseapp.com	",
     projectId: "canteenwebsite-7a475e",
-    storageBucket: "canteenwebsite-7a475.appspot.com",
+    storageBucket: "https://console.firebase.google.com/project/canteenwebsite-7a475/storage/canteenwebsite-7a475.appspot.com/files",
     messagingSenderId: "1093110920939",
     appId: "1:1093110920939:web:cdc4a1f3f38cdc8558b0ae",
   };
