@@ -1,15 +1,18 @@
   // --- Authentication Part ---
   // Your web app's Firebase configuration
-  var firebaseConfig = {
-    apiKey: "AIzaSyAMAl6w_062vjRgkmye9e0yN6Jjnj4ACjw",
-    authDomain: "canteenwebsite-7a475.firebaseapp.com	",
-    projectId: "canteenwebsite-7a475e",
-    storageBucket: "https://console.firebase.google.com/project/canteenwebsite-7a475/storage/canteenwebsite-7a475.appspot.com/files",
+  const firebaseConfig = {
+    apiKey: "AIzaSyCdw2q17nPRL6SA3tgkqwuW7JkuJZV3c9A",
+    authDomain: "canteenwebsite-7a475.firebaseapp.com",
+    projectId: "canteenwebsite-7a475",
+    storageBucket: "canteenwebsite-7a475.appspot.com",
     messagingSenderId: "1093110920939",
     appId: "1:1093110920939:web:cdc4a1f3f38cdc8558b0ae",
+    measurementId: "G-9600J0MV1H"
   };
   
   // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
   firebase.initializeApp(firebaseConfig);  
   
   // SignUp Form ID's -
