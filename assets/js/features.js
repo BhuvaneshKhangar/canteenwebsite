@@ -43,6 +43,7 @@ if (mobPreviewNavbar) {
     `
 }
 
+
 // Toggle Bars Switch
 const toggleBars = document.querySelector('.toggle-bars');
 const mobUI = document.querySelector('.mob-ul');
