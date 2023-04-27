@@ -2,6 +2,7 @@
 const addProductBtn = document.querySelector("#add-product-menu");
 const removeProductBtn = document.querySelector("#remove-product-menu");
 
+
 // Admin Management Containers
 const addContainer = document.querySelector(".add-container");
 const removeContainer = document.querySelector(".remove-container");
