@@ -298,6 +298,7 @@ function filtering(addToCartBtn){
     })
 }
 
+
 // Function To Create Menu Cards & Add to HTML
 function displayMenuItems(menuItems){
     let displayMenu = menuItems.map(function(item){
